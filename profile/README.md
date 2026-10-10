@@ -110,7 +110,8 @@ Native on every screen: Mac Catalyst builds with adaptive window scaling, iPad s
 - 📧 **Email:** [hello@nousivo.com](mailto:hello@nousivo.com)
 - 🐦 **Twitter/X:** [@nousivo](https://twitter.com/nousivo)
 - 💼 **LinkedIn:** [Nousivo LLC](https://linkedin.com/company/nousivo)
---Tel: 8608794289/8604389139
+- 📞 **Phone:** +1 (860) 879-4289 / +1 (860) 438-9139
+
 ---
 
 <p align="center">
