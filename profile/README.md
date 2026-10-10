@@ -92,15 +92,15 @@ Five focused apps. One private AI core. Every app features an AI chief of staff 
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
 </p>
 
-Native on every screen: Mac Catalyst builds with adaptive window scaling, iPad sidebars, Watch complications, home-screen widgets, Live Activities, Shortcuts and share extensions.
+Native on every screen: Mac Catalyst builds with adaptive window scaling, iPad sidebars, Watch complications, home-screen widgets, Live Activities, Shortcuts and share extensions on Apple — Glance home-screen widgets, Quick Settings tiles, adaptive & themed icons, app shortcuts, edge-to-edge and predictive back on Android 16+.
 
 ---
 
 ## Tech Stack
 
 - **Apple platforms:** Swift 6, SwiftUI, VisionKit, PDFKit, CloudKit, App Intents
-- **Android:** Kotlin, Jetpack Compose, Material 3
-- **AI:** Apple Intelligence (on-device), OpenAI, Anthropic, Google Gemini, Ollama, LM Studio — routed by a privacy-aware engine with consent controls
+- **Android:** Kotlin, Jetpack Compose, Material 3, Hilt, Room, CameraX, ML Kit, WorkManager, Glance widgets — all on a shared `nousivo-core` engine (minSdk 36 / Android 16)
+- **AI:** Apple Intelligence & on-device models, OpenAI, Anthropic, Google Gemini, OpenRouter, Groq, Together, HuggingFace, Ollama, LM Studio — routed by a privacy-aware engine with consent controls
 
 ---
 
